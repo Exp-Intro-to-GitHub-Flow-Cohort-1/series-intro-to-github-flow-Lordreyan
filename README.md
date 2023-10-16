@@ -2,9 +2,9 @@
 
 <!--
   <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+  Include a 1280×640 image, a course title in sentence case, and a concise description in emphasis.
+  In your repository settings: enable template repository, add your 1280×640 social image, and auto delete head branches.
+  Add your open-source license, GitHub uses an MIT license.
 -->
 
 # Introduction to GitHub
@@ -15,8 +15,8 @@ _Get started using GitHub in less than an hour._
 
 <!--
   <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
+  Include the start button, a note about Action minutes,
+  and tell the learners why they should take the course.
 -->
 
 ## Welcome
@@ -26,7 +26,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
 - **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
-- **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
+- **Prerequisites**: None. This course is a great introduction to your first day on GitHub.
 - **How long**: This course takes less than one hour to complete.
 
 In this course, you will:
@@ -42,7 +42,7 @@ Wait about 20 seconds, then refresh the page. Follow the step-by-step instructio
 
 <!--
   <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+  Add a link to get support, a GitHub status page, a code of conduct, license link.
 -->
 
 ---
